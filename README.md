@@ -1,7 +1,7 @@
 Tip Sugar
 ====
 
-A discord Tip-bot for Sugarchain.
+A discord Tip-bot for Sugarchain
 
 ## Demo
 
@@ -45,7 +45,7 @@ Please do not use Tip Sugar as a receiving address for mining rewards to prevent
 
 ## Digression
 
-As I mentioned above, I develop Tip Sugar as a personal hobby and for studying. So Tip Sugar may contain bad-code.
+I develop Tip Sugar as a personal hobby and for studying. So Tip Sugar **may contain bad-code**.
 
 I would be grateful if you could suggest a better implementation by PR.
 
