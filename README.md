@@ -25,7 +25,7 @@ Command prefix : `//`
 
 withdraw-fee is 0.001 SUGAR.
 
-Number of Confirmations is 12 blocks.
+Number of Confirmations is 6 blocks.
 
 Address type is `bech32` (native segwit).
 
@@ -74,6 +74,7 @@ daemon=1
 server=1
 rpcuser={same as config.py}
 rpcpassword={same as config.py}
+addresstype=bech32 #If you want to set bech32 address as default
 ```
 
 3. Run `tipsugar.py`
