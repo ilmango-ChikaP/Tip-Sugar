@@ -53,9 +53,14 @@ I would be grateful if you could suggest a better implementation by PR.
 
 * Python 3.5.3 or higher
 * [discord.py](https://github.com/Rapptz/discord.py) (rewrite)
+* [python-bitcoinrpc](https://github.com/jgarzik/python-bitcoinrpc)
 
 ```
 python3 -m pip install -U discord.py
+```
+
+```
+python3 -m pip install python-bitcoinrpc
 ```
 
 ## How to run
