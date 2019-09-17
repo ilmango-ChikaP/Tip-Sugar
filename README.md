@@ -18,8 +18,8 @@ Command prefix : `//`
 |`//balance`                     |Show your balances.                          |                                                   |
 |`//deposit`                     |Show your deposit address.                   |                                                   |
 |`//tip (@mention) (amount)`     |Tip specified amount to specified user.      |`//tip @ilmango 3.939`                             |
-|`//withdraw (address) (amount)` |Send specified amount to specified address.  |`//withdraw SadvGYb756YaaC355e3RhY6Ef5JNvWNEWc 10` |
-|`//withdrawall (address)`       |Send your all balances to specified address. |`//withdrawall SadvGYb756YaaC355e3RhY6Ef5JNvWNEWc` |
+|`//withdraw (address) (amount)` |Send specified amount to specified address.  |`//withdraw sugar1q4ppsuqpcmwg79q8mzlv47c6as0lvmd7vsmdxvw 10` |
+|`//withdrawall (address)`       |Send your all balances to specified address. |`//withdrawall sugar1q4ppsuqpcmwg79q8mzlv47c6as0lvmd7vsmdxvw` |
 
 ### Tips
 
