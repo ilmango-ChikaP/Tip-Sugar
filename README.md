@@ -41,7 +41,7 @@ Please do not use Tip Sugar as a receiving address for mining rewards to prevent
 
 ## Licence
 
-[MIT](https://github.com/ilmango-doge/Tip-Sugar/blob/master/LICENSE)
+[MIT](https://github.com/sugarchain-project/Tip-Sugar/blob/master/LICENSE)
 
 ## Digression
 

@@ -19,7 +19,7 @@ class Help(commands.Cog):
 
             embed = discord.Embed(
                 title="**Terms of Use**",
-                url='https://github.com/ilmango-doge/Tip-Sugar/blob/master/README.md#terms',
+                url='https://github.com/sugarchain-project/Tip-Sugar/blob/master/README.md#terms',
                 color=0x0043ff)
             embed.set_author(
                 name=ctx.author.display_name,
@@ -37,7 +37,7 @@ class Help(commands.Cog):
 
             embed = discord.Embed(
                 title="**GitHub README**",
-                url='https://github.com/ilmango-doge/Tip-Sugar/blob/master/README.md',
+                url='https://github.com/sugarchain-project/Tip-Sugar/blob/master/README.md',
                 color=0x0043ff)
             embed.set_author(
                 name=ctx.author.display_name,
