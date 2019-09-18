@@ -93,7 +93,7 @@ class Withdrawall(commands.Cog):
 
                         embed = discord.Embed(
                             title="**Block explorer**",
-                            url='https://explorer-testnet.cryptozeny.com/tx/{0}'.format(txid),
+                            url='https://1explorer.sugarchain.org/tx/{0}'.format(txid),
                             color=0x0043ff)
                         embed.set_author(
                             name=ctx.author.display_name,
