@@ -52,7 +52,7 @@ class Balance(commands.Cog):
                 icon_url=ctx.author.avatar_url_as(format='png', size=256))
             embed.add_field(
                 name="{0} SUGAR".format(str(balance)),
-                value="unconfirmed : {0} SUAGR".format(str(unconfirmed_balance)))
+                value="unconfirmed : {0} SUGAR".format(str(unconfirmed_balance)))
             embed.set_footer(text="Tip Sugar {0} [Owner: {1}]".format(config.VERSION, self.bot.get_user(config.OWNER_ID)),
                              icon_url=self.bot.user.avatar_url_as(format='png', size=256))
 
