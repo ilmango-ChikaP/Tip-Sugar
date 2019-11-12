@@ -82,3 +82,7 @@ addresstype=bech32 #If you want to set bech32 address as default
 ```
 python3 tipsugar.py
 ```
+4. Run bot as daemon on Mac
+```
+python3 tipsugar.py &
+```
