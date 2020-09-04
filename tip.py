@@ -72,7 +72,7 @@ class Tip(commands.Cog):
                 pass
 
                 tipfrom = str(ctx.author.id)
-                tipto = str(mention.replace('<@','').replace('>',''))
+                tipto = str(mention.replace('<@','').replace('>','')).replace('!','')
                 amount = Decimal(str(float(amount))) # Dealing with cases like "001.100", ".123" : "float(amount)"
 
                 if amount < Decimal('0.00000001'):
